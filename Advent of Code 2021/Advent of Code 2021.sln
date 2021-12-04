@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.31911.260
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_sonar_sweep", "1_sonar_sweep\1_sonar_sweep.csproj", "{F18DE9D2-203D-4DD0-8FDD-39CADAB32ED3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_dive", "2_dive\2_dive.csproj", "{263AC4DF-6813-4B9C-8603-58DDF96EAD91}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F18DE9D2-203D-4DD0-8FDD-39CADAB32ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F18DE9D2-203D-4DD0-8FDD-39CADAB32ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F18DE9D2-203D-4DD0-8FDD-39CADAB32ED3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{263AC4DF-6813-4B9C-8603-58DDF96EAD91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{263AC4DF-6813-4B9C-8603-58DDF96EAD91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{263AC4DF-6813-4B9C-8603-58DDF96EAD91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{263AC4DF-6813-4B9C-8603-58DDF96EAD91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
