@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2_dive", "2_dive\2_dive.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_binary_diagnostic", "3_binary_diagnostic\3_binary_diagnostic.csproj", "{3DAD3C20-6BF5-46E1-BBFE-278B9C8CA125}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_giant_squid", "4_giant_squid\4_giant_squid.csproj", "{DCFD480E-E7EA-4291-8CD7-EB8E00ED93CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3DAD3C20-6BF5-46E1-BBFE-278B9C8CA125}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DAD3C20-6BF5-46E1-BBFE-278B9C8CA125}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DAD3C20-6BF5-46E1-BBFE-278B9C8CA125}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCFD480E-E7EA-4291-8CD7-EB8E00ED93CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCFD480E-E7EA-4291-8CD7-EB8E00ED93CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCFD480E-E7EA-4291-8CD7-EB8E00ED93CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCFD480E-E7EA-4291-8CD7-EB8E00ED93CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
