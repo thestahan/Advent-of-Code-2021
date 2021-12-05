@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_sonar_sweep", "1_sonar_sw
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2_dive", "2_dive\2_dive.csproj", "{263AC4DF-6813-4B9C-8603-58DDF96EAD91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_binary_diagnostic", "3_binary_diagnostic\3_binary_diagnostic.csproj", "{3DAD3C20-6BF5-46E1-BBFE-278B9C8CA125}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3_binary_diagnostic", "3_binary_diagnostic\3_binary_diagnostic.csproj", "{3DAD3C20-6BF5-46E1-BBFE-278B9C8CA125}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_giant_squid", "4_giant_squid\4_giant_squid.csproj", "{DCFD480E-E7EA-4291-8CD7-EB8E00ED93CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4_giant_squid", "4_giant_squid\4_giant_squid.csproj", "{DCFD480E-E7EA-4291-8CD7-EB8E00ED93CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_hydrothermal_venture", "5_hydrothermal_venture\5_hydrothermal_venture.csproj", "{517C7297-2FEA-48A0-97DC-B4C7308A370C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{DCFD480E-E7EA-4291-8CD7-EB8E00ED93CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCFD480E-E7EA-4291-8CD7-EB8E00ED93CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCFD480E-E7EA-4291-8CD7-EB8E00ED93CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{517C7297-2FEA-48A0-97DC-B4C7308A370C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{517C7297-2FEA-48A0-97DC-B4C7308A370C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{517C7297-2FEA-48A0-97DC-B4C7308A370C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{517C7297-2FEA-48A0-97DC-B4C7308A370C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
