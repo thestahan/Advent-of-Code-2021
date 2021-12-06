@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3_binary_diagnostic", "3_bi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4_giant_squid", "4_giant_squid\4_giant_squid.csproj", "{DCFD480E-E7EA-4291-8CD7-EB8E00ED93CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_hydrothermal_venture", "5_hydrothermal_venture\5_hydrothermal_venture.csproj", "{517C7297-2FEA-48A0-97DC-B4C7308A370C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5_hydrothermal_venture", "5_hydrothermal_venture\5_hydrothermal_venture.csproj", "{517C7297-2FEA-48A0-97DC-B4C7308A370C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6_lanternfish", "6_lanternfish\6_lanternfish.csproj", "{CE48EF01-6CAE-42D4-812C-766891F8AD44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{517C7297-2FEA-48A0-97DC-B4C7308A370C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{517C7297-2FEA-48A0-97DC-B4C7308A370C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{517C7297-2FEA-48A0-97DC-B4C7308A370C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE48EF01-6CAE-42D4-812C-766891F8AD44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE48EF01-6CAE-42D4-812C-766891F8AD44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE48EF01-6CAE-42D4-812C-766891F8AD44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE48EF01-6CAE-42D4-812C-766891F8AD44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
