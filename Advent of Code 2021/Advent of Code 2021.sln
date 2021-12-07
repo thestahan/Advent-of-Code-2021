@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4_giant_squid", "4_giant_sq
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5_hydrothermal_venture", "5_hydrothermal_venture\5_hydrothermal_venture.csproj", "{517C7297-2FEA-48A0-97DC-B4C7308A370C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6_lanternfish", "6_lanternfish\6_lanternfish.csproj", "{CE48EF01-6CAE-42D4-812C-766891F8AD44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6_lanternfish", "6_lanternfish\6_lanternfish.csproj", "{CE48EF01-6CAE-42D4-812C-766891F8AD44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7_the_treachery_of_whales", "7_the_treachery_of_whales\7_the_treachery_of_whales.csproj", "{56C54A97-FEA3-495E-A2E1-2DDC39D50DCB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{CE48EF01-6CAE-42D4-812C-766891F8AD44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE48EF01-6CAE-42D4-812C-766891F8AD44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE48EF01-6CAE-42D4-812C-766891F8AD44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56C54A97-FEA3-495E-A2E1-2DDC39D50DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56C54A97-FEA3-495E-A2E1-2DDC39D50DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56C54A97-FEA3-495E-A2E1-2DDC39D50DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56C54A97-FEA3-495E-A2E1-2DDC39D50DCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
