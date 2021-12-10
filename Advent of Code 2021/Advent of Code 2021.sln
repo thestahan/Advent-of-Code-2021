@@ -3,23 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.31911.260
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_sonar_sweep", "1_sonar_sweep\1_sonar_sweep.csproj", "{F18DE9D2-203D-4DD0-8FDD-39CADAB32ED3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_sonar_sweep", "01_sonar_sweep\01_sonar_sweep.csproj", "{F18DE9D2-203D-4DD0-8FDD-39CADAB32ED3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2_dive", "2_dive\2_dive.csproj", "{263AC4DF-6813-4B9C-8603-58DDF96EAD91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_dive", "02_dive\02_dive.csproj", "{263AC4DF-6813-4B9C-8603-58DDF96EAD91}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3_binary_diagnostic", "3_binary_diagnostic\3_binary_diagnostic.csproj", "{3DAD3C20-6BF5-46E1-BBFE-278B9C8CA125}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_binary_diagnostic", "03_binary_diagnostic\03_binary_diagnostic.csproj", "{3DAD3C20-6BF5-46E1-BBFE-278B9C8CA125}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4_giant_squid", "4_giant_squid\4_giant_squid.csproj", "{DCFD480E-E7EA-4291-8CD7-EB8E00ED93CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_giant_squid", "04_giant_squid\04_giant_squid.csproj", "{DCFD480E-E7EA-4291-8CD7-EB8E00ED93CE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5_hydrothermal_venture", "5_hydrothermal_venture\5_hydrothermal_venture.csproj", "{517C7297-2FEA-48A0-97DC-B4C7308A370C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05_hydrothermal_venture", "05_hydrothermal_venture\05_hydrothermal_venture.csproj", "{517C7297-2FEA-48A0-97DC-B4C7308A370C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6_lanternfish", "6_lanternfish\6_lanternfish.csproj", "{CE48EF01-6CAE-42D4-812C-766891F8AD44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06_lanternfish", "06_lanternfish\06_lanternfish.csproj", "{CE48EF01-6CAE-42D4-812C-766891F8AD44}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7_the_treachery_of_whales", "7_the_treachery_of_whales\7_the_treachery_of_whales.csproj", "{56C54A97-FEA3-495E-A2E1-2DDC39D50DCB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07_the_treachery_of_whales", "07_the_treachery_of_whales\07_the_treachery_of_whales.csproj", "{56C54A97-FEA3-495E-A2E1-2DDC39D50DCB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8_seven_segment_search", "8_seven_segment_search\8_seven_segment_search.csproj", "{A6247919-C5A7-44D9-BE91-5DBC6CD846F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08_seven_segment_search", "08_seven_segment_search\08_seven_segment_search.csproj", "{A6247919-C5A7-44D9-BE91-5DBC6CD846F1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9_smoke_basin", "9_smoke_basin\9_smoke_basin.csproj", "{5FB5DCC5-01C4-4EC7-9857-5571BDD74151}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09_smoke_basin", "09_smoke_basin\09_smoke_basin.csproj", "{5FB5DCC5-01C4-4EC7-9857-5571BDD74151}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_syntax_scoring", "10_syntax_scoring\10_syntax_scoring.csproj", "{D401331A-AD6E-47F9-AC6A-56C1E9ED93DA}"
 EndProject
